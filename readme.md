@@ -42,9 +42,3 @@ Feel free to:
 - Request additional sections
 
 ---
-
-## 📜 License
-
-This course and repo are released under the [Apache License](./LICENSE).
-
----
